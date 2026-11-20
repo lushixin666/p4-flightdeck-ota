@@ -1,4 +1,4 @@
-ver=2026-11-21.32
-size=7469184
-md5=9cb9d450906a80af2cdc48d85bb00e0d
-bin=https://gcore.jsdelivr.net/gh/lushixin666/p4-flightdeck-ota@b5ed796683/ota/firmware.bin
+ver=2026-11-21.34
+size=7536016
+md5=c23833b203fa2a23c80ad8b70498bca9
+bin=https://gcore.jsdelivr.net/gh/lushixin666/p4-flightdeck-ota@b4100dc7ab/ota/firmware.bin
